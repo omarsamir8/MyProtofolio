@@ -1,6 +1,8 @@
 import './AboutMe.css';
 import Image from "next/image";
+import { useRouter } from "next/navigation";
 function AboutMe(){
+    const router = useRouter();
     return (
         <>
             <div className="hero">
@@ -18,6 +20,7 @@ function AboutMe(){
                 </p>
                 <div className="buttons">
                     <button
+                    onClick={()=>{router.push("/https://drive.google.com/drive/folders/1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN?hl=ar");}}
                     className="animate__animated animate__bounceInRight cv"
                     >
                     Download CV{" "}
