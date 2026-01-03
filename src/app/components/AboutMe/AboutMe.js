@@ -27,7 +27,7 @@ function AboutMe(){
                 </div>
                 <div data-aos="fade-up-left" className="right">
                         <Image
-                            src="/Assets/heroImg.jpg"
+                            src="/Assets/Omarsamir.jpg"
                             alt="MY Professional Image"
                             width={450}
                             height={500}
