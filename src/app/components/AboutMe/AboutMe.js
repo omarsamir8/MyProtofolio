@@ -22,7 +22,7 @@ function AboutMe(){
                 </p>
                 <div className="buttons">
                     <button
-                    onClick={()=>{router.push("https://drive.google.com/drive/folders/1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN?hl=ar");}}
+                    onClick={()=>{router.push("https://drive.google.com/drive/u/0/folders/1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN?q=sharedwith:public%20parent:1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN");}}
                     className="animate__animated animate__bounceInRight cv"
                     >
                     Download CV{" "}
