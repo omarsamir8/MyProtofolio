@@ -11,7 +11,7 @@ function AboutMe(){
                 <div data-aos="fade-up-right" className="left">
                 <h5>Welcom To My Protfolio</h5>
                 <h1>
-                    Hi! I'am Omar Samir <span> Full Stack Develober</span>
+                    Hi! I'am Omar Samir <span> Full Stack Developer</span>
                 </h1>
                 <p>
                     I’m a graduate of the Faculty of Computers and Artificial Intelligence from Benha University.
@@ -22,7 +22,7 @@ function AboutMe(){
                 </p>
                 <div className="buttons">
                     <button
-                    onClick={()=>{router.push("https://drive.google.com/drive/u/0/folders/1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN?q=sharedwith:public%20parent:1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN");}}
+                    onClick={()=>{router.push("https://drive.google.com/drive/u/0/folders/1F4rlA-6wJbvuoh9c6Ue7K2RWP1L9zfgN");}}
                     className="animate__animated animate__bounceInRight cv"
                     >
                     Download CV{" "}
