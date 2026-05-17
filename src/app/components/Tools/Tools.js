@@ -124,22 +124,34 @@ function ToolsExperience() {
             <div className="expreience">
               <i className="fa-brands fa-square-upwork"></i>
               <div className="up-details">
-                <h3>Freelancer E-Commerce Project</h3>
-                <p>oct,2025-dec,2025</p>
-                <h5> 1-Make More Interactive </h5>
-                <h5> 2-Make High Responsive </h5>
-                <h5> 4-Make Smart Cart </h5>
-                <h5> 5-Make Smart Dashboard For Owner </h5>
+                <h3>Front-End Developer (Freelance) – LMS Platform</h3>
+                <p>2026/03 – Present</p>
+                <h5> Developed a large-scale LMS with 4 interconnected platforms (Client,
+Organization, Admin, Company) </h5>
+                <h5>  Built scalable architecture using
+Next.js and React.js with role-based access control </h5>
+                <h5>  Integrated
+RESTful APIs and managed state using Redux Toolkit & React Query </h5>
+                <h5> 
+Created reusable UI components with Tailwind CSS and ensured
+responsive design</h5>
+                <h5> Optimized performance and improved load times
+across all platforms</h5>
               </div>
             </div>
             <div className="expreience">
               <i className="fa-brands fa-square-upwork"></i>
               <div className="up-details">
-                <h3> Web Based Information System For Stdent Portal Project</h3>
-                <p>Jan,2024-mar,2024</p>
-                <h5> 1-Make More Interactive </h5>
-                <h5> 2-Make High Responsive </h5>
-                <h5> 3-Make Real Time Chat </h5>
+                <h3> Full-Stack Developer (Freelance) – Brezada E-commerce</h3>
+                <p>2025/12 – 2026/01</p>
+                <h5> Developed a full-stack e-commerce platform using Next.js and
+MongoDB </h5>
+                <h5> Implemented key features: product management, cart,
+checkout, authentication, and orders </h5>
+                <h5> Built responsive UI with
+Tailwind CSS and integrated RESTful APIs </h5>
+<h5>Optimized performance
+and ensured scalable architecture</h5>
               </div>
             </div>
           </div>
