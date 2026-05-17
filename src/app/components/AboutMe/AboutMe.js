@@ -11,15 +11,14 @@ function AboutMe(){
                 <div data-aos="fade-up-right" className="left">
                 <h5>Welcom To My Protfolio</h5>
                 <h1>
-                    Hi! I'am Omar Samir <span> Full Stack Developer</span>
+                    Hi! I'am Omar Samir <span> Front End Developer</span>
                 </h1>
                 <p>
-                    I’m a graduate of the Faculty of Computers and Artificial Intelligence from Benha University.
-                    I’m a Full-Stack Developer specializing in Next.js, with strong experience in building responsive, user-friendly, and animated web applications.
-                    I have worked on multiple projects, including several full-stack applications, where I handled the entire development process—from UI/UX design and front-end development to back-end logic and database integration.
-                    I have a solid understanding of modern web development concepts, RESTful APIs, performance optimization, and scalable application architecture.
-                    I’m passionate about learning new technologies, writing clean and maintainable code, and building scalable, high-quality applications that provide an excellent user experience.
-                </p>
+                   Front-End Developer with strong experience in building scalable, high-performance web applications using React.js and Next.js. Specialized in developing complex multi-role systems, including LMS platforms and full-stack e-commerce solutions.
+
+Proficient in building responsive UI/UX, integrating RESTful APIs, and managing state with Redux Toolkit and React Query. Focused on performance optimization, clean architecture, and delivering seamless user experiences.
+
+Passionate about modern web technologies and continuously improving development quality and system design.</p>
                 <div className="buttons">
                     <button
                     onClick={()=>{router.push("https://drive.google.com/drive/u/0/folders/1EPYku1sXJEOvQDGPPtyvvt7TZHECIxvp");}}

@@ -116,6 +116,63 @@ function ToolsExperience() {
               </div>
               <p>Font Aws</p>
             </div>
+
+
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#3178C6" }} className="fa-solid fa-code"></i>
+  </div>
+  <p>TypeScript</p>
+</div>
+
+
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#ffca28" }} className="fa-solid fa-magnifying-glass"></i>
+  </div>
+  <p>React Query</p>
+</div>
+
+
+
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#4db33d" }} className="fa-solid fa-database"></i>
+  </div>
+  <p>MongoDB</p>
+</div>
+
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#000" }} className="fa-brands fa-git-alt"></i>
+  </div>
+  <p>Git</p>
+</div>
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#61DAFB" }} className="fa-solid fa-database"></i>
+  </div>
+  <p>Redux Toolkit</p>
+</div>
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#000" }} className="fa-solid fa-rocket"></i>
+  </div>
+  <p>Vercel</p>
+</div>
+
+<div className="tool">
+  <div className="i">
+    <i style={{ color: "#ff6b6b" }} className="fa-solid fa-bolt"></i>
+  </div>
+  <p>Performance</p>
+</div>
+            <div className="tool">
+  <div className="i">
+    <i style={{ color: "#38BDF8" }} className="fa-solid fa-wind"></i>
+  </div>
+  <p>Tailwind CSS</p>
+</div>
           </div>
         </div>
         <div data-aos="fade-up-left" className="experienceContainer">
