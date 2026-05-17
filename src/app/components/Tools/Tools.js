@@ -135,12 +135,7 @@ function ToolsExperience() {
 
 
 
-<div className="tool">
-  <div className="i">
-    <i style={{ color: "#4db33d" }} className="fa-solid fa-database"></i>
-  </div>
-  <p>MongoDB</p>
-</div>
+
 
 <div className="tool">
   <div className="i">
